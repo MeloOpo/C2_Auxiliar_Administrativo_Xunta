@@ -1,3 +1,4 @@
+# Titulo Preliminar
 ```mermaid
 flowchart TD
     A1["Artículo 1 · Estado, soberanía y forma política"]
