@@ -1,0 +1,1 @@
+![alt text](mermaid-ai-diagram-2026-10-14-085743.png)
