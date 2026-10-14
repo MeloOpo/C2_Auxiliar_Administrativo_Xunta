@@ -252,22 +252,6 @@ flowchart LR
 config:
   theme: base
   themeVariables:
-    primaryColor: '#eef2ff'
-    primaryBorderColor: '#818cf8'
-    primaryTextColor: '#312e81'
-    lineColor: '#818cf8'
----
-flowchart LR
-    H["<b>ARTÍCULO 21<br/>Tribunal Superior de Justicia</b>"]
-    H --> A["<b>Posición</b><br/>Culmina la organización judicial en Galicia"]
-    H --> B["<b>Integración prevista</b><br/>Audiencia Territorial en el TSJ de Galicia"]
-    H --> C["<b>Instancias procesales</b><br/>Se agotan ante él las sucesivas instancias<br/>En los términos del art. 152 CE y del Estatuto"]
-```
-```mermaid
----
-config:
-  theme: base
-  themeVariables:
     primaryColor: '#f5f3ff'
     primaryBorderColor: '#a78bfa'
     primaryTextColor: '#4c1d95'
