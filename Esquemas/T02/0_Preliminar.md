@@ -53,8 +53,6 @@ flowchart LR
     H --> B["<b>(2) Derechos políticos en el exterior</b>"]
     B --> B1["<b>Españoles residentes en el extranjero</b><br/>Última vecindad administrativa en Galicia<br/>Acreditación en el Consulado de España"]
     B --> B2["<b>Sus descendientes</b><br/>Inscritos como españoles + solicitud<br/>Según la ley del Estado"]
-
----
 ```
 ```mermaid
 ---
