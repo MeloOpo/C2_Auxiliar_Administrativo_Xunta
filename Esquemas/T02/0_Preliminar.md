@@ -55,7 +55,9 @@ flowchart LR
     B --> B2["<b>Sus descendientes</b><br/>Inscritos como españoles + solicitud<br/>Según la ley del Estado"]
 
 ---
-
+```
+```mermaid
+---
 config:
   theme: base
   themeVariables:
@@ -74,14 +76,72 @@ flowchart LR
     H --> C["<b>(3) Principio rector social y económico</b><br/>Derecho a vivir y trabajar en Galicia"]
 ```
 ```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#f0fdfa'
+    primaryBorderColor: '#2dd4bf'
+    primaryTextColor: '#134e4a'
+    lineColor: '#0f766e'
+---
+flowchart TD
+    H["<b>ARTÍCULO 5 · Lenguas de Galicia</b>"]
+    H --> A["<b>(1) Lengua propia</b><br/>El gallego"]
+    H --> B["<b>(2) Cooficialidad</b><br/>Gallego y castellano son oficiales.<br/>Todos tienen derecho a conocerlos y usarlos"]
+    H --> C["<b>(3) Obligaciones de los poderes públicos</b>"]
+    H --> D["<b>(4) No discriminación</b><br/>Nadie puede ser discriminado<br/>por razón de la lengua"]
+    C --> C1["Garantizar el uso normal y oficial<br/>de ambos idiomas"]
+    C --> C2["Potenciar el gallego en la vida<br/>pública, cultural e informativa"]
+    C --> C3["Disponer los medios necesarios<br/>para facilitar el conocimiento del gallego"]
 ```
 ```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#f0f9ff'
+    primaryBorderColor: '#38bdf8'
+    primaryTextColor: '#0c4a6e'
+    lineColor: '#0284c7'
+---
+flowchart TD
+    H["<b>ARTÍCULO 6 · Símbolos de Galicia</b>"]
+    H --> A["<b>(1) Bandera</b><br/>Blanca con una banda diagonal azul<br/>desde el ángulo superior izquierdo<br/>hasta el inferior derecho"]
+    H --> B["<b>(2) Himno y escudo</b><br/>Galicia tiene himno y escudo propios"]
 ```
 ```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#f5f3ff'
+    primaryBorderColor: '#a78bfa'
+    primaryTextColor: '#4c1d95'
+    lineColor: '#7c3aed'
+---
+flowchart TD
+    H["<b>ARTÍCULO 7 · Galleguidad en el exterior</b>"]
+    H --> A["<b>(1) Reconocimiento de la galleguidad</b><br/>Pueden solicitarlo las comunidades gallegas<br/>asentadas fuera de Galicia"]
+    A --> A1["<b>Contenido</b><br/>Derecho a colaborar y compartir<br/>la vida social y cultural del pueblo gallego"]
+    A --> A2["<b>Regulación</b><br/>Una ley del Parlamento determinará<br/>su alcance y contenido, respetando<br/>las competencias del Estado"]
+    A --> A3["<b>Límite</b><br/>No concede derechos políticos"]
+    H --> B["<b>(2) Tratados o convenios</b><br/>La Comunidad Autónoma puede solicitar<br/>al Estado español que los celebre con los países<br/>donde existan estas comunidades<br/>para facilitar lo anterior"]
 ```
 ```mermaid
-```
-```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#fff7ed'
+    primaryBorderColor: '#fb923c'
+    primaryTextColor: '#7c2d12'
+    lineColor: '#ea580c'
+---
+flowchart TD
+    H["<b>ARTÍCULO 8 · Sede de las instituciones</b>"]
+    H --> A["<b>Instrumento</b><br/>Una ley de Galicia fijará la sede<br/>de las instituciones autonómicas"]
+    A --> B["<b>Mayoría necesaria</b><br/>Voto favorable de dos tercios<br/>de los miembros del Parlamento"]
 ```
 ```mermaid
 ```
