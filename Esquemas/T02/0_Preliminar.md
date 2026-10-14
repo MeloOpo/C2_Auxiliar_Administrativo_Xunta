@@ -141,5 +141,3 @@ flowchart TD
     H --> A["<b>Instrumento</b><br/>Una ley de Galicia fijará la sede<br/>de las instituciones autonómicas"]
     A --> B["<b>Mayoría necesaria</b><br/>Voto favorable de dos tercios<br/>de los miembros del Parlamento"]
 ```
-```mermaid
-```
